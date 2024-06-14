@@ -1,0 +1,109 @@
+*{
+    margin: 0px;
+    font: ;
+    font-family: "inter";
+}
+#header {
+    background-color: #303030;
+}
+#menusuperior {
+    background-color: #303030;
+    color: #FFFFFF;
+    height: 150px;
+    padding: 85px 0;
+    width: 1260px;
+    margin: 0 auto;    
+}
+#titulo-menusuperior {
+    margin-top: 0px;
+}
+#texto-menusuperior {
+    margin-top: 0px;}
+#menuinformacional{
+    grid-auto-flow: column;
+    background-color: #F9F9F9;
+    height: 229px;
+    width: 100%;
+}
+.inner_center {
+    margin: 0 auto;
+    width: 1260px;
+    padding-top: 80px;
+}
+#menuinformacional .inner {
+    width: 33%;
+    float: left;
+}
+#descrição {
+    width: 1260px;
+    margin: 0 auto;
+    padding: 60px 0;
+}
+#textodescrição {
+    width: 50%;
+    float: left;
+    padding-top: 170px;
+}
+#fotodescritivo {
+    width: 50%;
+    float: left;
+    padding-bottom: 60px;
+    
+}
+#formulario {
+    background-color: #303030;
+    float: left;
+    width: 100%;
+    padding-top: 40px;
+    height: 500px;
+}
+#títuloformulario {
+        margin: 0 auto;
+        text-align: center;
+        color: #fff;
+        padding-top: 60px;     
+}
+#informacoes {
+    width: 1260px;
+    margin: 0 auto;}
+input{
+        width: 508px;
+        height: 65px;
+        top: 1661px;
+        left: 466px;
+        gap: 0px;
+        border-radius: 10px;
+        opacity: 0px; 
+        margin: 25px; 
+        padding-left: 20px;
+        border: 0px;
+    }
+#formulario1{
+    margin: 0 auto;
+    font-family: "inter";
+    text-align: center; 
+}
+form.formulario1 {
+    text-align: center;
+}
+button{
+    background-color: #C07212;
+    width: 286px;
+    height: 74px;
+    top: 1955px;
+    left: 577px;
+    gap: 0px;
+    border-radius: 10px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 10px;
+    color: #FFFFFF;
+    border: 0px;
+    font-family: raleway;
+    cursor: pointer;
+    font-size: 25px;
+    font-weight: bolder;
+}
+button:hover{
+    background-color: #d8851f;
+    transform: translateY(-7px);
+}
